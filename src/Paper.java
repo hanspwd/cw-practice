@@ -5,10 +5,10 @@ public class Paper
         //Happy Coding! ^_^
 
         if (n < 0) {
-            return m = 0;
+            return m;
     }
         if (m < 0) {
-            return n = 0;
+            return n;
         }
         return n * m;
     }
@@ -16,6 +16,7 @@ public class Paper
     public static void main(String[] args) {
 
         System.out.println(paperWork(-5,2));
+
 
     }
 
