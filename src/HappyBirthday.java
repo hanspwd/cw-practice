@@ -1,7 +1,3 @@
-/*
-*
-* */
-
 public class HappyBirthday {
     public static String womensAge(int n) {
         int base = 0;
