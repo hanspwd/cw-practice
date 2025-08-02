@@ -12,8 +12,7 @@ public class Paper
         }
         return n * m;
     }
-
-    public static void main(String[] args) {
+     public static void main(String[] args) {
 
         System.out.println(paperWork(-5,2));
 
